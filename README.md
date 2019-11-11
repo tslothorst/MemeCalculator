@@ -11,5 +11,5 @@ Starting the program is a bit more work. At start-up the dictionaries are popula
 
 ## Should I even be running this?
 This project is a joke. It's not really a paragon of proper programming and is for entertainment only.
-
+![alt text](https://github.com/tslothorst/MemeCalculator/blob/master/img/confusedcat.png "Why would you even make that?")
 Running this program will put some load on your machine, you've been warned. 
